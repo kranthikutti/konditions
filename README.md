@@ -1,1 +1,1 @@
-# konditions
+# konditions1
