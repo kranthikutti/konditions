@@ -1,0 +1,19 @@
+
+body {
+    background-color: lightblue;
+}
+
+h2 {
+    color: navy;
+    margin-left: 20px;
+   }
+
+p{color:orange;
+  font-size:90px;}
+
+/* id cum class selector*/
+#para1,.cent1 {
+    color:yellow;
+    text-align: center;
+    font-size:40px;
+  }
